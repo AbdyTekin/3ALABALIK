@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 6b8003cd3d5617842bb650900f24ff65
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shark1: {instanceID: 0}
+  - shark2: {instanceID: 0}
+  - fish1: {instanceID: 0}
+  - fish2: {instanceID: 0}
+  - fish3: {instanceID: 0}
+  - sharkSpline1: {instanceID: 0}
+  - sharkSpline2: {instanceID: 0}
+  - fishSpline1: {instanceID: 0}
+  - fishSpline2: {instanceID: 0}
+  - fishSpline3: {instanceID: 0}
+  - fishSpline4: {instanceID: 0}
+  - fishSpline5: {instanceID: 0}
+  - fish1Animator: {instanceID: 0}
+  - fish2Animator: {instanceID: 0}
+  - fish3Animator: {instanceID: 0}
+  - shark1Animator: {instanceID: 0}
+  - shark2Animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
